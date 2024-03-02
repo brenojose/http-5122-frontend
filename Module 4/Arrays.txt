@@ -1,0 +1,35 @@
+Arrays:
+
+
+pop() -> is a JavaScript array method that removes and returns the last element from an array.
+
+push() -> is a JavaScript array method that adds one or more elements to the end of an array and returns the new length of the array.
+
+shift() -> is a JavaScript array method that removes and returns the first element from an array, shifting all remaining elements to a lower index.
+
+unshift() -> is a JavaScript array method that adds one or more elements to the beginning of an array and returns the new length of the array.
+
+slice() -> take the piece of an arrray
+
+splice() -> is a JavaScript array method that changes the contents of an array by removing or replacing existing elements and/or adding new elements in
+place.
+
+splice() is a JavaScript array method that modifies the original array by adding, removing, or replacing elements, while slice() creates a new array by extracting a portion of the original array without modifying it.
+
+
+concat() -> is a JavaScript array method that combines two or more arrays, creating a new array without modifying the original arrays.
+
+join() -> needed for lab -> is a JavaScript array method that creates and returns a string by concatenating all the elements of an array, separated by a specified delimiter.
+
+indexof() -> is a JavaScript array/string method that returns the index of the first occurrence of a specified element or substring, or -1 if not found.
+
+____________________________________________________________________________________________________________________________________________________________
+Loops:
+ FORLOOP:
+for (let i = 0; i < 10; i++)
+
+use mainvar.length; to get as many numbers inside the array.
+
+
+ WHILELOOP:
+
